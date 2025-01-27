@@ -49,7 +49,7 @@
   <a href="mailto:ocarloshenriqueb@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/oCarlosHenriqueB" target="_blank">
+  <a href="https://www.linkedin.com/in/carlos-henrique-bresio-8a7057191/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
@@ -67,5 +67,5 @@
 
 <div align="center">
   <!-- Snake Animation -->
-  <img src="https://github.com/oCarlosHenriqueB/oCarlosHenriqueB/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
+  ![snake gif](https://github.com/oCarlosHenriqueB/oCarlosHenriqueB/blob/output/github-contribution-grid-snake.svg)
 </div>
