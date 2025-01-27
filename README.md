@@ -7,8 +7,7 @@
 <div align="center">
   <!-- Estatísticas do GitHub -->
   <a href="https://github.com/oCarlosHenriqueB">
-    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oCarlosHenriqueB&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
- alt="Estatísticas do GitHub"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oCarlosHenriqueB&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
   </a>
 </div>
 
@@ -17,8 +16,7 @@
 <div align="center">
   <!-- Linguagens Mais Utilizadas -->
   <a href="https://github.com/oCarlosHenriqueB">
-   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oCarlosHenriqueB&layout=compact&langs_count=8&theme=dark)
- alt="Linguagens mais utilizadas"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oCarlosHenriqueB&layout=compact&langs_count=8&theme=dark" alt="Linguagens mais utilizadas"/>
   </a>
 </div>
 
@@ -66,5 +64,5 @@
 
 <div align="center">
   <!-- Snake Animation -->
-  ![snake gif](https://github.com/oCarlosHenriqueB/oCarlosHenriqueB/blob/output/github-contribution-grid-snake.svg)
+  <img src="https://github.com/oCarlosHenriqueB/oCarlosHenriqueB/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
 </div>
