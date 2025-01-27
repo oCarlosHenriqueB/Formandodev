@@ -7,7 +7,8 @@
 <div align="center">
   <!-- Estatísticas do GitHub -->
   <a href="https://github.com/oCarlosHenriqueB">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oCarlosHenriqueB&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
+    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oCarlosHenriqueB&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+ alt="Estatísticas do GitHub"/>
   </a>
 </div>
 
@@ -16,7 +17,8 @@
 <div align="center">
   <!-- Linguagens Mais Utilizadas -->
   <a href="https://github.com/oCarlosHenriqueB">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oCarlosHenriqueB&layout=compact&langs_count=7&theme=dark" alt="Linguagens mais utilizadas"/>
+   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oCarlosHenriqueB&layout=compact&langs_count=8&theme=dark)
+ alt="Linguagens mais utilizadas"/>
   </a>
 </div>
 
